@@ -107,6 +107,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MultiList.cs" />
     <Compile Include="Diagram.cs">
       <SubType>Form</SubType>
     </Compile>
